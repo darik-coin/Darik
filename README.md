@@ -32,7 +32,7 @@ Reddit
 https://www.reddit.com/r/DarikCoin/
 
 ---
-![DARIK Built to Endure](https://raw.githubusercontent.com/darik-coin/Darik/main/darik-built-to-endure.png)
+![DARIK Built to Endure](922af025-de86-48b9-9f9a-313bf0920e0c.png)
 ## Latest News
 
 ### DARIK Built to Endure — High Risk Warning Removed from PancakeSwap
