@@ -35,6 +35,21 @@ https://www.reddit.com/r/DarikCoin/
 ![DARIK Built to Endure](922af025-de86-48b9-9f9a-313bf0920e0c.png)
 ## Latest News
 
+![Darik Liquidity Surpasses $38,000](77faf353-c0f9-4cfe-835d-cb30c8fa03f6.png)
+
+### Darik Liquidity Surpasses $38,000 — A Special Milestone Awaits at $100,000
+
+Darik liquidity has officially surpassed $38,000.
+
+The next major target is $100,000 in liquidity. A special milestone awaits when this target is reached.
+
+Early participants in liquidity growth may receive a greater allocation than those who join later.
+
+Read the full article:
+
+https://medium.com/@admin_56156/darik-liquidity-surpasses-38-000-a-special-milestone-awaits-at-100-000-abf4ea405c5b
+
+---
 ### DARIK Built to Endure — High Risk Warning Removed from PancakeSwap
 
 The High Risk warning previously displayed by third-party services is no longer shown on PancakeSwap.
