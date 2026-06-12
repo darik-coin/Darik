@@ -4,37 +4,40 @@ Official repository for the Darik ecosystem.
 
 ## Official Links
 
-Website  
+Website
 https://darikcoin.org
 
-Whitepaper  
+Whitepaper
 https://darikcoin.org/DARIK_ECOSYSTEM_WHITEPAPER.pdf
 
-CoinMarketCap  
+CoinMarketCap
 https://coinmarketcap.com/currencies/darik/
 
-GitHub  
+GitHub
 https://github.com/darik-coin/Darik
 
-Telegram  
+Telegram
 https://t.me/DARIKCOIN_DARIK
 
-X (Twitter)  
+X (Twitter)
 https://x.com/darikcoin_darik
 
-Medium  
+Medium
 https://medium.com/@admin_56156
 
-Instagram  
+Instagram
 https://www.instagram.com/darikcoin.io
 
-Reddit  
+Reddit
 https://www.reddit.com/r/DarikCoin/
 
 ---
+
 ![DARIK Built to Endure](922af025-de86-48b9-9f9a-313bf0920e0c.png)
+
 ## Latest News
-![](./e5393588-14db-4fec-9dd0-c6fc6a53488.png)
+
+<img src="e5393588-14db-4fec-9dd0-c6fc6a53488.png" width="100%">
 
 ### DARIK Liquidity Exceeds $44,000 — The Journey to $100,000 Begins
 
@@ -55,6 +58,7 @@ Read the full article:
 https://medium.com/@admin_56156/darik-liquidity-surpasses-44-000-the-journey-to-100-000-begins-8d89224e350d
 
 ---
+
 ![Darik Liquidity Surpasses $38,000](77faf353-c0f9-4cfe-835d-cb30c8fa03f6.png)
 
 ### Darik Liquidity Surpasses $38,000 — A Special Milestone Awaits at $100,000
@@ -70,6 +74,7 @@ Read the full article:
 https://medium.com/@admin_56156/darik-liquidity-surpasses-38-000-a-special-milestone-awaits-at-100-000-abf4ea405c5b
 
 ---
+
 ### DARIK Built to Endure — High Risk Warning Removed from PancakeSwap
 
 The High Risk warning previously displayed by third-party services is no longer shown on PancakeSwap.
@@ -92,11 +97,11 @@ The ecosystem combines a publicly traded digital asset with the development of a
 
 Key principles include:
 
-- Decentralization
-- Transparency
-- Community participation
-- Public verification
-- Long-term sustainability
+* Decentralization
+* Transparency
+* Community participation
+* Public verification
+* Long-term sustainability
 
 ---
 
