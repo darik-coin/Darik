@@ -33,7 +33,7 @@ https://www.reddit.com/r/DarikCoin/
 
 ---
 
-![DARIK Liquidity Exceeds $44,000](e5393588-14db-4fec-9dd0-c6fc6a53488.png)
+![DARIK Liquidity Exceeds $44,000](darik-liquidity-44000.png)
 
 ## Latest News
 
