@@ -35,6 +35,27 @@ https://www.reddit.com/r/DarikCoin/
 ![DARIK Built to Endure](922af025-de86-48b9-9f9a-313bf0920e0c.png)
 ## Latest News
 
+![DARIK Liquidity Exceeds $44,000](e5393588-14db-4fec-9dd0-c6fc6a53488.png)
+
+### DARIK Liquidity Exceeds $44,000 — The Journey to $100,000 Begins
+
+DARIK liquidity has officially surpassed $44,000, marking another important milestone for the ecosystem.
+
+The next major target is $100,000 in liquidity.
+
+Based on current calculations, 56 additional community members contributing approximately 500 USDT and 1,000 DARIK each can help achieve the next milestone.
+
+Early participants may receive greater allocation and priority benefits than those who join later.
+
+Once the liquidity pool reaches $100,000, the current allocation program will close and no further allocations under this initiative will be available.
+
+A major surprise is planned when the $100,000 liquidity milestone is achieved.
+
+Read the full article:
+
+https://medium.com/@admin_56156/darik-liquidity-surpasses-44-000-the-journey-to-100-000-begins-8d89224e350d
+
+---
 ![Darik Liquidity Surpasses $38,000](77faf353-c0f9-4cfe-835d-cb30c8fa03f6.png)
 
 ### Darik Liquidity Surpasses $38,000 — A Special Milestone Awaits at $100,000
