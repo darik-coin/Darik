@@ -34,8 +34,7 @@ https://www.reddit.com/r/DarikCoin/
 ---
 ![DARIK Built to Endure](922af025-de86-48b9-9f9a-313bf0920e0c.png)
 ## Latest News
-
-![DARIK Liquidity Exceeds $44,000](e5393588-14db-4fec-9dd0-c6fc6a53488.png)
+![](./e5393588-14db-4fec-9dd0-c6fc6a53488.png)
 
 ### DARIK Liquidity Exceeds $44,000 — The Journey to $100,000 Begins
 
