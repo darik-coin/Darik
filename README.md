@@ -33,9 +33,35 @@ https://www.reddit.com/r/DarikCoin/
 
 ---
 
-![DARIK Liquidity Exceeds $44,000](darik-liquidity-44000.png)
+
+---
+
+![DARIK Liquidity Surpasses $47,000](darik-liquidity-47000.png)
 
 ## Latest News
+
+### DARIK Liquidity Surpasses $47,000 — Transparent Allocation Program on the Road to $100,000
+
+DARIK liquidity has officially surpassed $47,000 and reached approximately $47,260.
+
+The next milestone is $100,000 in total liquidity.
+
+Based on current calculations, 53 additional participants contributing approximately 500 USDT and 1,100 DARIK each can help accelerate the journey toward the next major milestone.
+
+All liquidity contributions are publicly visible and verifiable on-chain.
+
+Wallet addresses, contribution amounts, dates and times can be independently verified through blockchain records.
+
+A transparent allocation program is in place, with earlier participation receiving higher allocation priority.
+
+A special surprise announcement is planned when the DARIK liquidity pool reaches $100,000.
+
+Medium Article:
+https://medium.com/@admin_56156/darik-liquidity-surpasses-47-000-transparent-allocation-program-on-the-road-to-100-000-acb99ee4e3a9
+
+![DARIK Liquidity Exceeds $44,000](darik-liquidity-44000.png)
+
+
 
 ### DARIK Liquidity Exceeds $44,000 — The Journey to $100,000 Begins
 
