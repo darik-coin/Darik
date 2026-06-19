@@ -28,9 +28,49 @@ https://medium.com/@admin_56156
 Instagram
 https://www.instagram.com/darikcoin.io
 
+![DARIK Liquidity Surpasses $91,000](DARIK%20Liquidity%20Surpasses%2091%2C000.png)
+## Latest News
+
+### DARIK Liquidity Surpasses $91,000 — Only 9 Allocation Spots Remain Before the $100,000 Milestone
+
+DARIK liquidity has officially surpassed **$91,000**, bringing the project to **91% of its $100,000 liquidity target**.
+
+Only **9 allocation spots remain** before the current allocation eligibility program reaches full capacity.
+
+Participants who wish to qualify may add liquidity with a total value of approximately **$1,000**, consisting of:
+
+* 500 USDT
+* Approximately 1,050 DARIK (depending on market price)
+
+### Important
+
+Allocation eligibility is available only for qualifying participants who complete their liquidity contribution **before total liquidity reaches $100,000**.
+
+Once the $100,000 liquidity milestone is achieved:
+
+* No new allocation spots will be available
+* No extensions will be granted
+* No exceptions will be made
+* Liquidity added afterward will not qualify for the current allocation program
+
+### Community Update
+
+A special announcement will be revealed when DARIK reaches the $100,000 liquidity milestone.
+
+We invite all community members to join the discussion and follow the latest updates:
+
+Medium:
+https://medium.com/@admin_56156/darik-liquidity-surpasses-91-000-only-9-allocation-spots-remain-before-the-100-000-milestone-7f48c6a081a7
+
+Reddit:
+https://www.reddit.com/u/Darik-Coin/s/IJQilCETrX
+
+Current Liquidity: **$91,000+**
+
+Remaining Allocation Spots: **9**
 
 ---![DARIK Liquidity Surpasses $81,000](DARIK%20Liquidity%20Surpasses%20%2481%2C000.png)
-## Latest News
+
 ### DARIK Liquidity Surpasses $81,000 — Only 19 Allocation Spots Remain Before $100,000
 DARIK liquidity has officially surpassed **$81,000**, marking another major milestone on the journey toward the next target of **$100,000** in total liquidity.
 
