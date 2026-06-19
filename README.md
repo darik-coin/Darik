@@ -28,9 +28,9 @@ https://medium.com/@admin_56156
 Instagram
 https://www.instagram.com/darikcoin.io
 
-![DARIK Liquidity Surpasses $91,000](DARIK%20Liquidity%20Surpasses%2091%2C000.png)
-## Latest News
 
+## Latest News
+<img src="./DARIK%20Liquidity%20Surpasses%20%2491%2C000.png" width="900">
 ### DARIK Liquidity Surpasses $91,000 — Only 9 Allocation Spots Remain Before the $100,000 Milestone
 
 DARIK liquidity has officially surpassed **$91,000**, bringing the project to **91% of its $100,000 liquidity target**.
