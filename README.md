@@ -30,6 +30,21 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+
+### DARIK Announces Major Decentralization Initiative
+
+DARIK liquidity has officially surpassed $111,000.
+
+A total of 17,850,000 DARIK has been designated for the Community Allocation Program as part of DARIK's long-term decentralization strategy.
+
+📄 Medium Article:
+https://medium.com/@admin_56156/darik-announces-major-decentralization-initiative-with-17-85-90e7273cd3e3
+
+📑 Allocation Schedule:
+https://github.com/darik-coin/Darik/blob/main/DARIK_Community_Allocation_Schedule-1.pdf
+
+👥 Holder List:
+https://bscscan.com/token/0x595a67d180bae10314384265d56927c8ff073426#balances
 <img src="./DARIK%20Liquidity%20Surpasses%20%2491%2C000.png" width="900">
 ### DARIK Liquidity Surpasses $91,000 — Only 9 Allocation Spots Remain Before the $100,000 Milestone
 
