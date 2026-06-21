@@ -30,7 +30,7 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
-
+![DARIK Announces Major Decentralization](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Announces%20Major%20Decentralization.png)
 ### DARIK Announces Major Decentralization Initiative
 
 DARIK liquidity has officially surpassed $111,000.
