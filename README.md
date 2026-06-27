@@ -28,8 +28,42 @@ https://medium.com/@admin_56156
 Instagram
 https://www.instagram.com/darikcoin.io
 
-
 ## Latest News
+
+![90,000 DARIK Successfully Distributed](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Successfully%20Distributed.png)
+
+### 🚀 90,000 DARIK Successfully Distributed — DARIK Holders Approach 100,000
+
+A major milestone has been achieved for the DARIK ecosystem.
+
+90,000 DARIK have been successfully distributed to 90,000 carefully verified wallets. Wallets identified as exchanges or obvious bot activity were excluded to help ensure a healthy and genuine community distribution.
+
+The market response has been exceptional. Despite this large-scale distribution, DARIK maintained strong momentum and advanced from approximately **$0.33 to above $1.00**, while trading activity increased significantly.
+
+This result demonstrates the strength of the DARIK community and growing market confidence.
+
+Following this milestone, the number of DARIK holders is now approaching **100,000**.
+
+📖 Medium Article:
+
+https://medium.com/@admin_56156/90-000-darik-successfully-distributed-darik-holders-approach-100-000-as-the-surprise-3ee76e9519ab
+
+🌐 Official Website:
+
+https://darikcoin.org/
+
+📊 CoinMarketCap:
+
+https://coinmarketcap.com/currencies/darik/
+
+🔍 BscScan:
+
+https://bscscan.com/token/0x595a67d180bae10314384265d56927c8ff073426
+
+🎯 The countdown continues...
+
+**The next major surprise announcement is coming soon.**
+
 ![DARIK Announces Major Decentralization](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Announces%20Major%20Decentralization.png)
 ### DARIK Announces Major Decentralization Initiative
 
