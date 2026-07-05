@@ -30,6 +30,30 @@ https://www.instagram.com/darikcoin.io
 
 ## Latest News
 
+![DARIK Liquidity Surpasses $360,000](DARIK%20Liquidity%20Surpasses%20%24360%2C000.png)
+
+### 🚀 DARIK Liquidity Surpasses $360,000 — A Big Surprise Is Coming
+
+DARIK has achieved another important milestone as liquidity has officially surpassed **$360,000**.
+
+The journey toward the next major target of **$2,000,000 liquidity** continues.
+
+🔥 A major surprise announcement is planned by the end of this week.
+
+The DARIK ecosystem continues to expand with a focus on:
+
+✅ Transparency  
+✅ Community growth  
+✅ Real on-chain progress  
+✅ Long-term ecosystem development  
+
+All liquidity growth and activities remain fully transparent and verifiable on the blockchain.
+
+📖 Medium Article:
+https://medium.com/@admin_56156/darik-liquidity-surpasses-360-000-the-journey-toward-2-million-begins-559d06fb4b08
+
+Stay tuned — something big is coming 🚀
+
 ![90,000 DARIK Successfully Distributed](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Successfully%20Distributed.png)
 
 ### 🚀 90,000 DARIK Successfully Distributed — DARIK Holders Approach 100,000
