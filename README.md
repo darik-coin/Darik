@@ -31,6 +31,46 @@ https://www.instagram.com/darikcoin.io
 
 ## Latest News
 
+![DARIK Liquidity Surpasses $437,000](DARIK%20Liquidity%20Surpasses%20%24437%2C000.png)
+
+### 🚀 DARIK Liquidity Surpasses $437,000 as BscScan Market Data Goes Live
+
+DARIK has officially surpassed **$437,000 in liquidity**, marking another significant milestone in the continued growth of the ecosystem.
+
+At the same time, another important achievement has been completed.
+
+Following extensive coordination and technical updates, **DARIK's market data, including price and market value, is now displayed on BscScan**, providing greater transparency and easier access to key market information for users and investors.
+
+These developments represent another important step toward strengthening the DARIK ecosystem and expanding its public infrastructure.
+
+### Liquidity Expansion Program
+
+Participants who contribute:
+
+- **1,000 USDT**
+- **An equivalent value of 1,000 USDT in DARIK**
+
+(approximately **$2,000 total liquidity contribution**)
+
+will become eligible for the **DARIK Allocation Program** when liquidity reaches **$2,000,000**.
+
+The required amount of DARIK depends on the market price at the time of participation.
+
+### Read the Full Article
+
+https://medium.com/@admin_56156/darik-liquidity-surpasses-437-000-as-bscscan-market-data-goes-live-f7a423f7dc23
+
+---
+
+### Official Links
+
+- Website: https://darikcoin.org
+- Whitepaper: https://darikcoin.org/DARIK_ECOSYSTEM_WHITEPAPER.pdf
+- CoinMarketCap: https://coinmarketcap.com/currencies/darik/
+- BscScan: https://bscscan.com/token/0x595a67d180bae10314384265d56927c8ff073426
+- Telegram: https://t.me/DARIKCOIN_DARIK
+- X: https://x.com/darikcoin_darik
+- Medium: https://medium.com/@admin_56156
 ![DARIK Liquidity Surpasses $397,000](DARIK%20Liquidity%20Surpasses%20%24397%2C000%21.png)
 
 ### 🚀 DARIK Liquidity Surpasses $397,000 — Final Preparations for a Major Ecosystem Announcement
