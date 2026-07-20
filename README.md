@@ -30,6 +30,43 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+
+## 🚀 DARIK and PCM Broker Announce Strategic Cooperation
+
+![DARIK and PCM Broker](DARIK%20and%20PCM%20Broker.png)
+
+The DARIK ecosystem is pleased to announce its strategic cooperation with PCM Broker, introducing three major developments that significantly expand the real-world utility of DARIK.
+
+### Key Highlights
+
+- Trade **DARIK** on **MetaTrader 4** with up to **5× leverage**.
+- Deposit and withdraw directly using **DARIK**.
+- Commodity & energy settlement with **DARIK** through professional trading infrastructure.
+
+This cooperation connects blockchain technology with professional financial markets and real-world commodity trading, creating new opportunities for practical blockchain adoption.
+
+📖 **Read the full announcement on Medium:**
+
+https://medium.com/@admin_56156/darik-and-pcm-broker-announce-a-strategic-cooperation-to-expand-the-real-world-utility-of-darik-b074e6f9e4c5
+
+---
+
+### Official Links
+
+**Website**  
+https://darikcoin.org
+
+**CoinMarketCap**  
+https://coinmarketcap.com/currencies/darik/
+
+**PCM Broker**  
+https://pcmgate.co
+
+**Telegram**  
+https://t.me/DARIKCOIN_DARIK
+
+**X (Twitter)**  
+https://x.com/darikcoin_darik
 ## 🚀 A Major Ecosystem Expansion Is About to Be Unveiled
 
 ![A Major Ecosystem Expansion](A%20Major%20Ecosystem%20Expansion.png)
