@@ -30,6 +30,30 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 🚀 DARIK Trading Volume Surpasses $450,000
+
+![DARIK Trading Volume Update](skreener.png)
+
+Following the launch of real **5× leveraged DARIK trading** through **PCM Broker** on MetaTrader 4, DARIK achieved a new market milestone.
+
+Within three days, DARIK's trading volume surpassed **$450,000**, setting a new record for the project.
+
+Unlike synthetic leveraged products, DARIK positions traded through PCM Broker are supported by real market transactions, contributing to genuine trading activity and transparent price discovery.
+
+### Key Updates
+
+- DARIK trading volume surpassed **$450,000**.
+- Real **5× leveraged trading** is available through PCM Broker.
+- The official DARIK listing application has been submitted to **CoinGecko**.
+- A response from CoinGecko is expected within approximately **10 to 20 days**.
+- DARIK has received listing and cooperation inquiries from several international exchanges.
+- Selected listing opportunities are currently under review by the DARIK team.
+
+### Read the Full Announcement
+
+[Read the full article on Medium](https://medium.com/@admin_56156/darik-trading-volume-surpasses-450-000-as-coingecko-review-progresses-and-global-exchange-interest-df41aa3d91ce)
+
+The DARIK ecosystem remains focused on transparency, practical utility, and sustainable global growth.
 
 ## 🚀 DARIK and PCM Broker Announce Strategic Cooperation
 
