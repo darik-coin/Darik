@@ -30,6 +30,33 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+
+### 🦎 DARIK Officially Listed on CoinGecko
+
+![DARIK Officially Listed on CoinGecko](CoinGecko.png)
+
+DARIK has been officially listed on **CoinGecko**, one of the world's leading cryptocurrency data platforms.
+
+This milestone significantly increases DARIK's global visibility and provides investors, traders, and the blockchain community with direct access to live market data, charts, and project information.
+
+### Official CoinGecko
+https://www.coingecko.com/en/coins/darik-coin
+
+### Read the Full Announcement
+https://medium.com/@admin_56156/darik-officially-listed-on-coingecko-marking-a-major-milestone-in-global-growth-18219ca7d337
+
+### Key Highlights
+
+- 🦎 Officially listed on CoinGecko
+- 📈 Greater global visibility
+- 🌍 Easier discovery for investors and exchanges
+- ⚡ Available on PancakeSwap
+- 🛡️ Supported by Trust Wallet
+- 📊 Real 5× leveraged trading via PCM Broker on MetaTrader 4
+
+Website:
+https://darikcoin.org
+
 ## 🚀 DARIK Trading Volume Surpasses $450,000
 
 ![DARIK Trading Volume Update](skreener.png)
