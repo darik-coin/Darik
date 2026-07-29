@@ -30,7 +30,33 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 🌍 DARIK Receives Listing Interest from Multiple Global Exchanges While Staying Committed to Decentralization
 
+![Committed to Decentralization](Committed%20to%20Decentralization.png)
+
+Multiple global cryptocurrency exchanges have expressed interest in listing **DARIK**, including:
+
+- Upbit
+- MEXC
+- LBank
+- Toobit
+- Azbit
+- P2B
+- Biconomy Exchange
+
+We sincerely appreciate every invitation and the growing recognition of the DARIK ecosystem.
+
+However, our direction remains unchanged.
+
+### ✅ Fully Decentralized
+
+DARIK is committed to building a transparent, community-driven ecosystem without dependence on any centralized exchange.
+
+Any exchange that wishes to support DARIK is welcome to evaluate and list DARIK independently through its own review process.
+
+### Read the full announcement
+
+https://medium.com/@admin_56156/darik-receives-listing-interest-from-multiple-global-exchanges-while-staying-committed-to-860ce0aef782
 ### 🦎 DARIK Officially Listed on CoinGecko
 
 ![DARIK Officially Listed on CoinGecko](CoinGecko.png)
