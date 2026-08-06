@@ -30,6 +30,24 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+
+### 🌐 DARIK Reaffirms Its Commitment to Full Decentralization as Exchange Interest Continues to Grow
+
+![Decentralized Ecosystem](Decentralized%20Ecosystem.png)
+
+The DARIK ecosystem continues to move forward with a clear long-term vision based on decentralization, transparency, and open participation.
+
+As industry interest continues to grow, DARIK has received numerous listing inquiries from centralized cryptocurrency exchanges worldwide.
+
+DARIK follows a fully decentralized model. The ownership of the smart contract has been permanently renounced, meaning there is no controlling owner. Exchanges are free to evaluate and list DARIK according to their own internal policies and technical standards.
+
+This open approach reflects DARIK's commitment to building an ecosystem that is accessible to everyone while remaining controlled by no single entity.
+
+📖 Read the full Medium article:
+
+https://medium.com/@admin_56156/darik-reaffirms-its-commitment-to-full-decentralization-as-exchange-interest-continues-to-grow-ec2566d8cccf
+
+---
 ## 🌍 DARIK Receives Listing Interest from Multiple Global Exchanges While Staying Committed to Decentralization
 
 ![Committed to Decentralization](Committed%20to%20Decentralization.png)
