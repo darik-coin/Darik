@@ -30,7 +30,42 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+### 🚀 DARIK Liquidity Community Surpasses 220 Participants — Earlier Participation Means a Higher Reward
 
+![DARIK Liquidity Community — 220+ Participants](LQ.png)
+
+The DARIK liquidity community has now surpassed **220 independent participants**, marking another important step toward broader and more decentralized liquidity participation.
+
+True decentralization means liquidity should not depend on a single person or entity. Instead, it should be supported by many independent participants across the community.
+
+### 🎁 1,000,000 DARIK Reward Pool
+
+A total reward pool of **1,000,000 DARIK** has been allocated for eligible liquidity participants.
+
+To qualify, each participant must provide **exactly $2,000 in liquidity**, consisting of approximately:
+
+- **$1,000 USDT**
+- **$1,000 worth of DARIK**
+
+⏳ **Earlier Participation = Higher Reward**
+
+Rewards are determined by chronological participation order. The first eligible participant receives the highest reward, followed progressively by later participants.
+
+The opportunity remains open until total DARIK liquidity reaches **$2,000,000**.
+
+After the $2 million target is reached and liquidity remains stabilized for approximately **7–10 days**, eligible rewards will be transferred directly to the same wallet addresses used to provide liquidity.
+
+📋 **Participant wallet addresses and their corresponding participation numbers are publicly available on the official DARIK Telegram channel:**
+
+https://t.me/DARIKCOIN_DARIK
+
+📰 **Read the full announcement on Medium:**
+
+https://medium.com/@admin_56156/darik-liquidity-surpasses-220-participants-earlier-participation-means-a-higher-reward-c7b745563bc7
+
+---
+
+**220+ participants. One decentralized liquidity community. The earlier the participation, the higher the reward.**
 ### 🌐 DARIK Reaffirms Its Commitment to Full Decentralization as Exchange Interest Continues to Grow
 
 ![Decentralized Ecosystem](Decentralized%20Ecosystem.png)
