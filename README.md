@@ -30,6 +30,47 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+
+### 🚀 Major DARIK Market Data Update — DEX Screener & TradingView Updated, CoinGecko Review Underway
+
+![DARIK Market Data Update](DARIK%20Expands.png)
+
+DARIK continues to expand its presence across major cryptocurrency market-data platforms.
+
+✅ **DEX Screener** — DARIK market information and project branding have been updated.
+
+https://dexscreener.com/bsc/0xbba50be7a1cb6e25ddda562b0ca278089bf9068a
+
+✅ **TradingView** — DARIK/USDT market data is now available through the PancakeSwap market.
+
+https://www.tradingview.com/symbols/DARIKUSDT_BBA50B.USD/
+
+🔄 **CoinGecko** — The necessary follow-up and manual review request has been submitted for the DARIK project information to be reviewed and updated.
+
+https://www.coingecko.com/en/coins/darik
+
+### 🔐 Decentralization & On-Chain Verification
+
+DARIK operates on BNB Smart Chain with a maximum supply of **21,000,000 DARIK**.
+
+On-chain contract data shows that the current owner address is the zero address:
+
+`0x0000000000000000000000000000000000000000`
+
+This provides publicly verifiable on-chain evidence that the contract currently has no active owner address.
+
+Contract:
+https://bscscan.com/token/0x595a67d180bae10314384265d56927c8ff073426#readContract
+
+### 📰 Full Announcement
+
+Read the complete market-data update on Medium:
+
+https://medium.com/@admin_56156/major-darik-market-data-update-dex-screener-and-tradingview-updated-as-coingecko-review-moves-385dca07b012
+
+---
+
+**DARIK — Decentralized. Transparent. Verifiable On-Chain.**
 ### 🚀 DARIK Liquidity Community Surpasses 220 Participants — Earlier Participation Means a Higher Reward
 
 ![DARIK Liquidity Community — 220+ Participants](LQ.png)
