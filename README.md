@@ -30,6 +30,69 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+### 🔐 GoPlus Completes DARIK Security Review — All Token Warnings Removed
+
+![DARIK GoPlus Security Update](ALL%20WARNINGS%20REMOVED.png)
+
+DARIK has received an important security update following a review by **GoPlus Labs**.
+
+The GoPlus team officially informed DARIK:
+
+> **“We removed all the warnings for your token.”**
+
+This confirmation follows the review of the DARIK smart contract and represents an important transparency milestone for the project.
+
+### ✅ Official GoPlus Confirmation
+
+![Official GoPlus Confirmation](go.png)
+
+The updated security assessment can be independently verified directly through GoPlus:
+
+https://console.gopluslabs.io/token-security/56/0x595a67d180bae10314384265d56927c8ff073426
+
+### 🔎 DARIK Contract
+
+**Network:** BNB Smart Chain (BSC)
+
+**Contract Address:**
+
+`0x595a67d180bae10314384265d56927c8ff073426`
+
+### 📰 Full Announcement
+
+Read the complete announcement on Medium:
+
+https://medium.com/@admin_56156/goplus-completes-darik-security-review-all-token-warnings-removed-ca170e61dec2
+
+### 🌐 Official DARIK Resources
+
+**Website:**  
+https://darikcoin.org/
+
+**CoinMarketCap:**  
+https://coinmarketcap.com/currencies/darik/
+
+**CoinGecko:**  
+https://www.coingecko.com/en/coins/darik-coin
+
+**BscScan:**  
+https://bscscan.com/token/0x595a67d180bae10314384265d56927c8ff073426
+
+**GoPlus Security Result:**  
+https://console.gopluslabs.io/token-security/56/0x595a67d180bae10314384265d56927c8ff073426
+
+**X (Twitter):**  
+https://x.com/darikcoin_darik
+
+**Telegram:**  
+https://t.me/DARIKCOIN_DARIK
+
+**Medium:**  
+https://medium.com/@admin_56156
+
+---
+
+*DARIK continues to prioritize transparency, independent verification, and publicly accessible on-chain information.*
 
 ### 🚀 Major DARIK Market Data Update — DEX Screener & TradingView Updated, CoinGecko Review Underway
 
