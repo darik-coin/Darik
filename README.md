@@ -30,79 +30,58 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
-https://raw.githubusercontent.com/darik-coin/Darik/main/lbank.png
 
-🚀 DARIK Opens Listing Discussions with LBank
+## 🚀 DARIK Opens Listing Discussions with LBank
 
-DARIK Listing Discussions with LBank
+![DARIK Listing Discussions with LBank](https://raw.githubusercontent.com/darik-coin/Darik/main/lbank.png)
 
-
-
-DARIK has officially entered discussions with LBank regarding a potential listing and strategic cooperation.
-
-
+DARIK has officially entered discussions with **LBank** regarding a potential listing and strategic cooperation.
 
 This marks another step in expanding DARIK's global market accessibility while preserving the decentralized foundation of the ecosystem.
 
-🔗 Expanding Access — Preserving Decentralization
+### 🔗 Expanding Access — Preserving Decentralization
 
-A potential listing on a centralized exchange would provide an additional access point for DARIK users. It would not change the decentralized nature of DARIK or make the ecosystem dependent on any single exchange.
-
-
+A potential listing on a centralized exchange would provide an **additional access point** for DARIK users. It would not change the decentralized nature of DARIK or make the ecosystem dependent on any single exchange.
 
 DARIK continues to maintain:
 
+* Decentralized blockchain infrastructure
+* Independent wallet ownership
+* On-chain transfers
+* Decentralized market accessibility
+* Multiple independent access points
 
+**Expanding access does not mean abandoning decentralization.**
 
-Decentralized blockchain infrastructure
-
-Independent wallet ownership
-
-On-chain transfers
-
-Decentralized market accessibility
-
-Multiple independent access points
-
-
-
-Expanding access does not mean abandoning decentralization.
-
-🌍 Continued Market Expansion
+### 🌍 Continued Market Expansion
 
 DARIK continues to expand its visibility and accessibility across cryptocurrency data, blockchain, and trading platforms while maintaining its long-term commitment to decentralization, transparency, and ecosystem development.
 
+Discussions with LBank are currently ongoing. **No final listing agreement has been announced at this stage.**
 
-
-Discussions with LBank are currently ongoing. No final listing agreement has been announced at this stage.
-
-📰 Full Announcement
+### 📰 Full Announcement
 
 Read the complete announcement on Medium:
 
-
-
 https://medium.com/@admin_56156/darik-opens-listing-discussions-with-lbank-as-market-accessibility-continues-to-expand-7def61eb36bf
 
-🔗 Official Links
+### 🔗 Official DARIK Information
 
-Website:
+**Website:**
 https://darikcoin.org/
 
-
-
-CoinMarketCap:
+**CoinMarketCap:**
 https://coinmarketcap.com/currencies/darik/
 
+**Network:** BNB Smart Chain (BEP-20)
 
+**Contract Address:**
+`0x595a67d180bae10314384265d56927c8ff073426`
 
-Contract — BNB Smart Chain:
-0x595a67d180bae10314384265d56927c8ff073426
-
-
-
-Maximum Supply:
+**Maximum Supply:**
 21,000,000 DARIK
+
+---
 
 
 ### 🔐 GoPlus Completes DARIK Security Review — All Token Warnings Removed
