@@ -30,7 +30,60 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 🚀 DARIK Introduces $3 Million Liquidity Milestone and Community Reward Program
 
+![DARIK $3 Million Liquidity Reward Program](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Introduces%20%243%20Million.png)
+
+DARIK has introduced the next stage of its **Community Liquidity Reward Program**, with a target of **$3,000,000 in total liquidity**.
+
+### 💧 Participation Structure
+
+Each complete **$100 liquidity unit** qualifies for **1 participation number**:
+
+- **50 USDT**
+- **$50 worth of DARIK**
+
+The amount of DARIK required depends on the market price of DARIK at the time liquidity is provided.
+
+For example, if DARIK is priced at **$0.50**, then $50 worth of DARIK equals **100 DARIK**.
+
+### 📌 The $100 Rule
+
+- $100 liquidity = **1 participation number**
+- $150 liquidity = **1 participation number**
+- $200 liquidity = **2 participation numbers**
+- $300 liquidity = **3 participation numbers**
+- Less than $100 = **No participation number**
+
+Only complete $100 units are counted.
+
+### 🎯 $3 Million Liquidity Milestone
+
+When total DARIK liquidity reaches **$3,000,000**, qualifying participants will become eligible for the community reward distribution under the announced program conditions.
+
+### 🎁 90 Allocation Blocks & Liquidity Rewards
+
+As previously announced, **17,850,000 DARIK** has been structured across **90 time-limited allocation blocks**.
+
+Eligible allocation blocks that remain unsold after their respective deadlines will become part of the liquidity reward pool and will be **fairly distributed among qualifying liquidity participants**.
+
+📊 **Official Allocation Plan:**
+
+https://github.com/darik-coin/Darik/blob/main/DARIK_Allocation_Plan_90_Participants.xlsx
+
+### 🌐 Next Phase
+
+After the allocation blocks have either been sold or, where applicable, distributed through the reward program, DARIK plans to expand its **marketing activities and pursue listing opportunities with larger cryptocurrency exchanges**.
+
+DARIK is currently in discussions with **LBank** regarding a potential listing and cooperation.
+
+📰 **Full Official Announcement:**
+
+https://medium.com/@admin_56156/darik-introduces-3-million-liquidity-milestone-and-community-reward-program-19ac16681308
+
+**DARIK — Decentralized. Transparent. Community-Driven.**
+
+---
 ## 🚀 DARIK Opens Listing Discussions with LBank
 
 ![DARIK Listing Discussions with LBank](https://raw.githubusercontent.com/darik-coin/Darik/main/lbank.png)
