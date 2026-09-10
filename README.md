@@ -30,6 +30,65 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 🌍 DARIK Expands Global Strategy — HTX & LBank Listing Discussions
+
+![DARIK HTX and LBank](https://raw.githubusercontent.com/darik-coin/Darik/main/HTX%20and%20LBank.png)
+
+DARIK continues to expand its global strategy.
+
+Following the opening of listing discussions with **LBank**, the DARIK team has now also entered discussions with **HTX** regarding the requirements and process for a potential DARIK listing.
+
+These discussions are part of DARIK's broader strategy to expand global market accessibility while preserving its decentralized foundation.
+
+### 🌐 New Fiat Settlement Initiative
+
+Alongside exchange expansion, DARIK is developing a new real-world utility framework based on a simple principle:
+
+**DARIK → Fiat Settlement**
+
+Under the planned framework, users will provide **DARIK** and, subject to regulatory, compliance, and operational requirements, request settlement in supported fiat currencies:
+
+- 🇪🇺 **EUR — Euro**
+- 🇺🇸 **USD — US Dollar**
+- 🇨🇳 **CNY — Chinese Yuan**
+- 🇨🇦 **CAD — Canadian Dollar**
+- 🇦🇺 **AUD — Australian Dollar**
+- 🇬🇧 **GBP — British Pound**
+
+Settlement is planned through supported **banking channels** and, where legally and operationally available, **physical cash settlement**.
+
+### 🔑 DARIK Is the Required Digital Asset
+
+The key principle of this specific framework is that users provide **DARIK** for conversion.
+
+The objective is to create practical economic utility for DARIK beyond conventional cryptocurrency trading and connect blockchain-based value with real-world financial settlement.
+
+### 🚀 Building Accessibility + Utility
+
+DARIK's strategy is progressing on two complementary tracks:
+
+**Exchange Accessibility:** Potential expansion through HTX and LBank while maintaining decentralized accessibility.
+
+**Real-World Utility:** Developing infrastructure that enables DARIK to serve as the digital asset for settlement into major fiat currencies.
+
+Listing discussions and the fiat settlement initiative are currently under development and do not constitute confirmation of an HTX or LBank listing or an already operational fiat settlement service.
+
+### 📰 Full Announcement
+
+https://medium.com/@admin_56156/darik-expands-global-strategy-htx-and-lbank-listing-discussions-alongside-a-new-fiat-settlement-cc7e566a6f1e
+
+### 🔗 Official DARIK Resources
+
+**Website:** https://darikcoin.org/  
+**Whitepaper:** https://darikcoin.org/DARIK_ECOSYSTEM_WHITEPAPER.pdf  
+**CoinMarketCap:** https://coinmarketcap.com/currencies/darik/  
+**CoinGecko:** https://www.coingecko.com/en/coins/darik-coin  
+**Telegram:** https://t.me/DARIKCOIN_DARIK  
+**X:** https://x.com/darikcoin_darik  
+
+---
+
+**DARIK — Building Accessibility. Building Utility. Building Real-World Connectivity.**
 ## 🚀 DARIK Introduces $3 Million Liquidity Milestone and Community Reward Program
 
 ![DARIK $3 Million Liquidity Reward Program](https://raw.githubusercontent.com/darik-coin/Darik/main/DARIK%20Introduces%20%243%20Million.png)
