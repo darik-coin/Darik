@@ -30,6 +30,114 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 💧 DARIK Liquidity Rewards Will Be Paid 100% in USDT
+
+![DARIK Liquidity Reward Program](https://raw.githubusercontent.com/darik-coin/Darik/main/Rewards.png)
+
+DARIK has announced an important clarification to its **Community Liquidity Reward Program**:
+
+**All final liquidity rewards will be paid in USDT.**
+
+No reward will be paid in DARIK.
+
+### 💵 How the Reward Calculation Works
+
+The reward entitlement of each eligible wallet will first be calculated based on the amount of DARIK allocated to that wallet.
+
+However, the final reward will not be transferred in DARIK.
+
+Instead, the DARIK reward value will be calculated using the applicable market price, and the equivalent amount will be paid in **USDT**.
+
+### 📌 Example
+
+If an eligible wallet is calculated to receive:
+
+**2,000 DARIK**
+
+and the applicable DARIK price is:
+
+**$0.40**
+
+then:
+
+**2,000 DARIK × $0.40 = $800**
+
+The participant will receive:
+
+**800 USDT**
+
+No DARIK will be transferred as the final reward.
+
+### ⚖️ Fair and Proportional Distribution
+
+The reward program is designed around two main principles:
+
+- **Earlier liquidity participation = higher reward weighting**
+- **More eligible liquidity = more reward units**
+
+### 🔢 Every Complete $100 = 1 Participation Unit
+
+The minimum eligible liquidity is:
+
+**$100**
+
+Each complete $100 of eligible liquidity counts as one participation unit.
+
+Examples:
+
+- **$100 liquidity = 1 unit**
+- **$150 liquidity = 1 unit**
+- **$200 liquidity = 2 units**
+- **$300 liquidity = 3 units**
+
+### 💧 Example of a $100 Liquidity Position
+
+If DARIK is priced at **$0.50**, an example of a complete $100 liquidity position could be:
+
+**50 USDT + 100 DARIK worth $50 = $100 total liquidity**
+
+The exact amount of DARIK required depends on the market price of DARIK when liquidity is provided.
+
+### 🎯 $3 Million Liquidity Milestone
+
+Rewards will be distributed when total DARIK liquidity reaches:
+
+**$3,000,000**
+
+Eligible liquidity must remain in place until this milestone is reached.
+
+⚠️ **Important:**
+
+If a participant removes or reduces qualifying liquidity before total liquidity reaches $3 million, that participation will no longer qualify for the reward.
+
+### ✅ Key Rules
+
+- Minimum eligible liquidity: **$100**
+- Every complete **$100 = 1 participation unit**
+- Earlier participation receives higher reward weighting
+- More eligible liquidity means more reward units
+- Rewards are calculated fairly and proportionally
+- Final rewards are paid **100% in USDT**
+- No DARIK is paid as a reward
+- Eligible liquidity must remain until the **$3 million milestone**
+
+### 📰 Full Announcement
+
+https://medium.com/@admin_56156/darik-announces-usdt-based-liquidity-reward-distribution-as-3-million-milestone-approaches-502bc651b120
+
+### 🔗 Official DARIK Resources
+
+**Website:** https://darikcoin.org/  
+**Whitepaper:** https://darikcoin.org/DARIK_ECOSYSTEM_WHITEPAPER.pdf  
+**CoinMarketCap:** https://coinmarketcap.com/currencies/darik/  
+**CoinGecko:** https://www.coingecko.com/en/coins/darik-coin  
+**Telegram:** https://t.me/DARIKCOIN_DARIK  
+**X:** https://x.com/darikcoin_darik  
+**Medium:** https://medium.com/@admin_56156  
+
+---
+
+**DARIK — Calculated via DARIK. Paid 100% in USDT.**
 ## 🌍 DARIK Expands Global Strategy — HTX & LBank Listing Discussions
 
 ![DARIK HTX and LBank](https://raw.githubusercontent.com/darik-coin/Darik/main/HTX%20and%20LBank.png)
