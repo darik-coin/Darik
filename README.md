@@ -30,6 +30,55 @@ https://www.instagram.com/darikcoin.io
 
 
 ## Latest News
+## 🚨 OFFICIAL DARIK ANNOUNCEMENT | RESPONSE TO UK FCA
+
+![DARIK Official Response to UK FCA](https://raw.githubusercontent.com/darik-coin/Darik/main/fca.png)
+
+### DARIK Formally Responds to the UK Financial Conduct Authority
+
+DARIK has officially submitted a formal response to the UK Financial Conduct Authority (FCA) regarding the historical warning issued in January 2022.
+
+### ❌ No Affiliation with darikcoin.info
+
+DARIK firmly denies any connection, ownership, operation, or affiliation with the historical website **darikcoin.info**.
+
+The current DARIK project states that it has never operated or controlled that domain.
+
+### ✅ Official DARIK Website
+
+**https://darikcoin.org**
+
+DARIK operates as a decentralized digital asset ecosystem on BNB Smart Chain (BEP-20).
+
+**DARIK Token Contract:**
+
+`0x595a67d180bae10314384265d56927c8ff073426`
+
+### 📢 Formal Request to the FCA
+
+DARIK has requested:
+
+- An evidence-based review of the alleged relationship between darikcoin.info and the current DARIK project.
+- Clarification of the historical 2022 warning.
+- Correction of any inaccurate attribution concerning the current DARIK ecosystem.
+
+**Current Status:** DARIK has submitted its response. The FCA has not confirmed any amendment or removal of the historical warning.
+
+### 📰 READ THE FULL OFFICIAL ANNOUNCEMENT
+
+https://medium.com/@admin_56156/darik-officially-responds-to-uk-fca-denies-any-affiliation-with-darikcoin-info-c999050b5b55
+
+### 🌐 Official DARIK Channels
+
+Website: https://darikcoin.org
+
+Telegram: https://t.me/DARIKCOIN_DARIK
+
+X: https://x.com/darikcoin_darik
+
+---
+
+
 ## 💧 DARIK Liquidity Rewards Will Be Paid 100% in USDT
 
 ![DARIK Liquidity Reward Program](https://raw.githubusercontent.com/darik-coin/Darik/main/Rewards.png)
