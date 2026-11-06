@@ -29,7 +29,27 @@ Instagram
 https://www.instagram.com/darikcoin.io
 
 
-## Latest News
+## 📰 Latest News
+
+### 🎉 DARIK Announces Formal Closure of Regulatory Correspondence
+
+**November 5, 2026**
+
+![DARIK Closure Announcement](https://raw.githubusercontent.com/darik-coin/Darik/main/mmm.png)
+
+Darik Coin (DARIK) announces an important milestone following the completion of the corrective actions requested in previous regulatory correspondence.
+
+On November 5, 2026, the relevant UK authority confirmed in writing that it would not pursue the previously raised matter further and considered it closed.
+
+This marks the formal conclusion of the correspondence process and an important step forward for the DARIK project.
+
+**📖 Full Announcement:**
+
+[Read the complete announcement on Medium](https://medium.com/@admin_56156/darik-confirms-closure-of-regulatory-correspondence-following-completion-of-corrective-actions-2b2e2f9e9906)
+
+**🌐 Official Website:** https://darikcoin.org
+
+**DARIK — Moving Forward.**
 ## 🚨 OFFICIAL DARIK ANNOUNCEMENT | RESPONSE TO UK FCA
 
 ![DARIK Official Response to UK FCA](https://raw.githubusercontent.com/darik-coin/Darik/main/fca.png)
